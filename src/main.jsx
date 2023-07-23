@@ -18,7 +18,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <BrowserRouter>
     <Routes>
       <Route index element={<App />} />
-      <Route path="/" element={<App />} />
+      <Route path="/jomato" element={<App />} />
       <Route path="/add-restaurant" element={<AddRestaurant />} />
       <Route path="/show-case" element={<ShowCase />} /> 
       <Route path="/user/:userId/notifications" element={<SkipedPage />} />

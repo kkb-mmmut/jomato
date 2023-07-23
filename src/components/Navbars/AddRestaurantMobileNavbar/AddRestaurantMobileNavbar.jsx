@@ -18,7 +18,7 @@ let AddRestaurantMobileNavbar = ({ toogleMenu, setToggleMenu }) => {
     return <div className={css.navbarH}>
         <div className={css.menu}>
             <img className={css.menuBar} src={close} alt='menu bar' onClick={() => setToggleMenu(val => !val)} />
-            <Link to='/' className={css.title}>Jomato</Link>
+            <Link to='/jomato' className={css.title}>Jomato</Link>
         </div>
         <div className={css.navbar} onClick={() => setState(val => !val)}>
             <span className={css.profile}>
