@@ -13,7 +13,7 @@ let AddRestaurantSec = () => {
             <div className={css.overlayDiv}>
                 <div className={css.sec1}>
                     <div className={css.title}>
-                        Cannot find your favourite restaurant on Zomato?
+                        Cannot find your favourite restaurant on Jomato?
                     </div>
                     <div className={css.tag}>
                         Submit the details and our team will get the restaurant onboard

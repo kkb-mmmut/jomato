@@ -1,6 +1,6 @@
-# Zomato (zomato clone)
+# Jomato (zomato clone)
  
-Zomato is a online food ordering application, we made a clone (Zomato) of it using React Js, Zomato Frontend clone using React Js.
+Jomato is a online food ordering application, we made a clone (Zomato) of it using React Js, Jomato Frontend clone using React Js.
  
 ## Pages Developed:
 

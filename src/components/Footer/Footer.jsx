@@ -14,7 +14,7 @@ let Footer = () => {
     return <div className={footerCss.footer}>
         <div className={footerCss.innerFooter}>
             <div className={footerCss.sec1}>
-                <div className={footerCss.logoBox}>Zomato</div>
+                <div className={footerCss.logoBox}>Jomato</div>
                 <div className={footerCss.filters}>
                     <div className={footerCss.filterBox}> <span>
                         <img className={footerCss.icon} src={indianFlag} alt="india flag" />
@@ -26,7 +26,7 @@ let Footer = () => {
             </div>
             <div className={footerCss.sec2}>
                 <div className={[footerCss.box1, footerCss.box].join(' ')}>
-                    <div className={footerCss.boxTtl}>ABOUT ZOMATO</div>
+                    <div className={footerCss.boxTtl}>ABOUT JOMATO</div>
                     <a href="" className={footerCss.boxOpt}>Who We Are</a>
                     <a href="" className={footerCss.boxOpt}>Blog</a>
                     <a href="" className={footerCss.boxOpt}>Work With Us</a>
@@ -34,11 +34,11 @@ let Footer = () => {
                     <a href="" className={footerCss.boxOpt}>Report Fraud</a>
                 </div>
                 <div className={[footerCss.box2, footerCss.box].join(' ')}>
-                    <div className={footerCss.boxTtl}>ZOMAVERSE</div>
-                    <a href="" className={footerCss.boxOpt}>Zomato</a>
+                    <div className={footerCss.boxTtl}>JOMAVERSE</div>
+                    <a href="" className={footerCss.boxOpt}>Jomato</a>
                     <a href="" className={footerCss.boxOpt}>Feeding India</a>
                     <a href="" className={footerCss.boxOpt}>Hyperpure</a>
-                    <a href="" className={footerCss.boxOpt}>Zomaland</a>
+                    <a href="" className={footerCss.boxOpt}>Jomaland</a>
                 </div>
                 <div className={[footerCss.box3, footerCss.box].join(' ')}>
                     <div className={footerCss.boxTtl}>FOR RESTAURANTS</div>
@@ -46,7 +46,7 @@ let Footer = () => {
                     <a href="" className={footerCss.boxOpt}>Apps For You</a>
 
                     <div className={footerCss.boxTtl}>FOR ENTERPRISES</div>
-                    <a href="" className={footerCss.boxOpt}>Zomato For Work</a>
+                    <a href="" className={footerCss.boxOpt}>Jomato For Work</a>
                 </div>
                 <div className={[footerCss.box4, footerCss.box].join(' ')}>
                     <div className={footerCss.boxTtl}>LEARN MORE</div>
@@ -80,7 +80,7 @@ let Footer = () => {
             </div>
             <hr className={footerCss.breakLine} />
             <div className={footerCss.sec3}>
-                  All trademarks are properties of their respective owners. 2023-2025 © Zomato™ Ltd. All rights reserved.
+                  All trademarks are properties of their respective owners. 2023-2025 © Jomato™ Ltd. All rights reserved.
             </div>
         </div>
     </div>
